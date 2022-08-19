@@ -19,7 +19,7 @@ UNICODE_ENABLE = no        # For table flip emojis
 UNICODEMAP_ENABLE = no
 UCIS_ENABLE = no
 SLEEP_LED_ENABLE = no       # Breathing sleep LED during USB suspend
-TAP_DANCE_ENABLE = yes
+TAP_DANCE_ENABLE = no
 CUSTOM_MATRIX = no
 
 
